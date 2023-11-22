@@ -1,0 +1,76 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\ccarvajal\Documents\LPR_\demo_lpr\out\artifacts\demo_lpr_jar\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\ccarvajal\Documents\LPR_\demo_lpr\out\artifacts\demo_lpr_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files (x86)\National Instruments\Motion Assistant\bin\mxwplugins;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ccarvajal\AppData\Local\Microsoft\WindowsApps;;C:\IDES\IntelliJ IDEA Community Edition 2022.2.1\bin;;C:\Users\ccarvajal\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ccarvajal\.dotnet\tools;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+JRE paths:	;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files (x86)\National Instruments\Motion Assistant\bin\mxwplugins;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ccarvajal\AppData\Local\Microsoft\WindowsApps;;C:\IDES\IntelliJ IDEA Community Edition 2022.2.1\bin;;C:\Users\ccarvajal\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ccarvajal\.dotnet\tools;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+Check launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.011.000_016 / 64-Bit (OK)
+Main class:	com.example.demo_lpr.XMLReaderGUI
+Add classpath:	javafx-graphics-18.0.1.jar
+Add classpath:	javafx-fxml-18.0.1-win.jar
+Add classpath:	javafx-graphics-18.0.1-win.jar
+Add classpath:	javafx-controls-18.0.1.jar
+Add classpath:	javafx-controls-18.0.1-win.jar
+Add classpath:	javafx-base-18.0.1.jar
+Add classpath:	javafx-base-18.0.1-win.jar
+Add classpath:	javafx-fxml-18.0.1.jar
+Launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\ccarvajal\Documents\LPR_\demo_lpr\out\artifacts\demo_lpr_jar\demo.exe;javafx-graphics-18.0.1.jar;javafx-fxml-18.0.1-win.jar;javafx-graphics-18.0.1-win.jar;javafx-controls-18.0.1.jar;javafx-controls-18.0.1-win.jar;javafx-base-18.0.1.jar;javafx-base-18.0.1-win.jar;javafx-fxml-18.0.1.jar" com.example.demo_lpr.XMLReaderGUI
+Args length:	341/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\ccarvajal\Documents\LPR_\demo_lpr\out\artifacts\demo_lpr_jar\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\ccarvajal\Documents\LPR_\demo_lpr\out\artifacts\demo_lpr_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files (x86)\National Instruments\Motion Assistant\bin\mxwplugins;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ccarvajal\AppData\Local\Microsoft\WindowsApps;;C:\IDES\IntelliJ IDEA Community Edition 2022.2.1\bin;;C:\Users\ccarvajal\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ccarvajal\.dotnet\tools;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+JRE paths:	;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files (x86)\National Instruments\Motion Assistant\bin\mxwplugins;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ccarvajal\AppData\Local\Microsoft\WindowsApps;;C:\IDES\IntelliJ IDEA Community Edition 2022.2.1\bin;;C:\Users\ccarvajal\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ccarvajal\.dotnet\tools;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+Check launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.011.000_016 / 64-Bit (OK)
+Main class:	com.example.demo_lpr.XMLReaderGUI
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\ccarvajal\Documents\LPR_\demo_lpr\out\artifacts\demo_lpr_jar\demo.exe" com.example.demo_lpr.XMLReaderGUI
+Args length:	125/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\ccarvajal\Documents\LPR_\demo_lpr\out\artifacts\demo_lpr_jar\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\ccarvajal\Documents\LPR_\demo_lpr\out\artifacts\demo_lpr_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files (x86)\National Instruments\Motion Assistant\bin\mxwplugins;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ccarvajal\AppData\Local\Microsoft\WindowsApps;;C:\IDES\IntelliJ IDEA Community Edition 2022.2.1\bin;;C:\Users\ccarvajal\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ccarvajal\.dotnet\tools;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+JRE paths:	;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files (x86)\National Instruments\Motion Assistant\bin\mxwplugins;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ccarvajal\AppData\Local\Microsoft\WindowsApps;;C:\IDES\IntelliJ IDEA Community Edition 2022.2.1\bin;;C:\Users\ccarvajal\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ccarvajal\.dotnet\tools;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+Check launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.011.000_016 / 64-Bit (OK)
+Main class:	com.example.demo_lpr.XMLReaderGUI
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\ccarvajal\Documents\LPR_\demo_lpr\out\artifacts\demo_lpr_jar\demo.exe" com.example.demo_lpr.XMLReaderGUI
+Args length:	125/32768 chars
+Exit code:	0

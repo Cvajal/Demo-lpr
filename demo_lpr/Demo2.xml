@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>console</headerType>
+  <jar>C:\Users\ccarvajal\Documents\LPR_\demo_lpr\out\artifacts\demo_lpr_jar\demo_lpr.jar</jar>
+  <outfile>C:\Users\ccarvajal\Documents\LPR_\demo_lpr\out\artifacts\demo_lpr_jar\demo.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <classPath>
+    <mainClass>com.example.demo_lpr.XMLReaderGUI</mainClass>
+    <cp>javafx-graphics-18.0.1.jar</cp>
+    <cp>javafx-fxml-18.0.1-win.jar</cp>
+    <cp>javafx-graphics-18.0.1-win.jar</cp>
+    <cp>javafx-controls-18.0.1.jar</cp>
+    <cp>javafx-controls-18.0.1-win.jar</cp>
+    <cp>javafx-base-18.0.1.jar</cp>
+    <cp>javafx-base-18.0.1-win.jar</cp>
+    <cp>javafx-fxml-18.0.1.jar</cp>
+  </classPath>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>

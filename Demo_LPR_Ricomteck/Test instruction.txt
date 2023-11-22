@@ -1,0 +1,5 @@
+1.hxsdkdemo.jar is mainly an event, the test of the video interface
+2.hxSettingDemo.jar is mainly camera information, configure the test interface
+3.hxwblistDemo is mainly a black and white list test
+4. when testing，Double -click xx.bat that can run Demo
+5. When HXSETTINGDEMO.JAR test, you need to modify the IP in hxsettingDemorun.bat

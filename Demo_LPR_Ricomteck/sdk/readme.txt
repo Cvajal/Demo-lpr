@@ -1,0 +1,1 @@
+1. When using SDK, you need to reference ice_ipcsdk.jar at the same time and ZIP4J_1.3.2.jar, Fastjson -.2.70.JAR, Java-WEBSOCKET-1.3.8.jar

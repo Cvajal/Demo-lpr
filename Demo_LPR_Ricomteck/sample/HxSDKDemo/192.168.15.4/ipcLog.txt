@@ -1,0 +1,20 @@
+2023-11-16 08:19:47.823  192.168.15.4 Open video
+2023-11-16 08:19:48.061  192.168.15.4 webSocketOpen
+2023-11-16 08:19:50.276  192.168.15.4 webSocketClose,code:1000,reason:run:true
+2023-11-16 08:19:50.286  192.168.15.4 webSocketClose,return
+2023-11-16 08:19:52.750  192.168.15.4 Open video
+2023-11-16 08:19:52.973  192.168.15.4 webSocketOpen
+2023-11-16 08:19:55.939  192.168.15.4 webSocketClose,code:1000,reason:run:true
+2023-11-16 08:19:55.940  192.168.15.4 webSocketClose,return
+2023-11-16 08:21:04.795  192.168.15.4 Open video
+2023-11-16 08:21:05.022  192.168.15.4 webSocketOpen
+2023-11-16 08:21:07.959  192.168.15.4 webSocketClose,code:1000,reason:run:true
+2023-11-16 08:21:07.960  192.168.15.4 webSocketClose,return
+2023-11-16 08:43:28.266  192.168.15.4 Open video
+2023-11-16 08:43:28.514  192.168.15.4 webSocketOpen
+2023-11-16 08:43:32.094  192.168.15.4 webSocketClose,code:1000,reason:run:true
+2023-11-16 08:43:32.094  192.168.15.4 webSocketClose,return
+2023-11-16 08:44:21.565  192.168.15.4 SDK_SendMsg send success, type=4101
+2023-11-16 08:44:21.607  192.168.15.4 SDK_SendMsg return success, type:4102msg.status:1
+2023-11-16 08:44:23.587  192.168.15.4 SDK_SendMsg send success, type=4101
+2023-11-16 08:44:23.588  192.168.15.4 SDK_SendMsg return success, type:4102msg.status:1

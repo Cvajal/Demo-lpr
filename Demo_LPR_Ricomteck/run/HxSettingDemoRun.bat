@@ -1,0 +1,1 @@
+java -jar -Dfile.encoding=utf-8 HxSettingDemo.jar 192.168.55.100

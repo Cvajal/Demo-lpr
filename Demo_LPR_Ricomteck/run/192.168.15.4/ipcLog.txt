@@ -1,0 +1,4 @@
+2023-11-21 12:02:51.471  192.168.15.4 SDK_SendMsg send success, type=4101
+2023-11-21 12:02:51.486  192.168.15.4 SDK_SendMsg return success, type:4102msg.status:1
+2023-11-21 12:07:52.047  192.168.15.4 SDK_SendMsg send success, type=4101
+2023-11-21 12:07:52.049  192.168.15.4 SDK_SendMsg return success, type:4102msg.status:1
