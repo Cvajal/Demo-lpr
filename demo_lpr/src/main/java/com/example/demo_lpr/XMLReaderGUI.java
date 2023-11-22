@@ -55,7 +55,7 @@ public class XMLReaderGUI {
         frame.add(imagePanel, BorderLayout.EAST);
         frame.setVisible(true);
 
-        JButton selectFolderButton = new JButton("Buscar Carpeta Reciente o Actualizar ");
+        JButton selectFolderButton = new JButton("Oprima para buscar Carpeta Reciente o Actualizar ");
 
         JTextField searchField = new JTextField(10); // Caja de texto para la búsqueda
 
