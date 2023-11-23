@@ -55,7 +55,7 @@ public class XMLReaderGUI {
         frame.add(imagePanel, BorderLayout.EAST);
         frame.setVisible(true);
 
-        JButton selectFolderButton = new JButton("Oprima para buscar Carpeta Reciente o Actualizar ");
+        JButton selectFolderButton = new JButton("selecciona directorio ");
 
         JTextField searchField = new JTextField(10); // Caja de texto para la búsqueda
 
@@ -66,7 +66,7 @@ public class XMLReaderGUI {
             @Override
             public void actionPerformed(ActionEvent e) {
                 // Selecciona la carpeta más reciente en "192.168.15.4"
-                xmlFolder = getMostRecentFolder("C:\\Users\\ccarvajal\\Documents\\LPR_\\192.168.55.100");
+                xmlFolder = getMostRecentFolder("C:\\Users\\ccarvajal\\Documents\\LPR_\\192.168.15.4");
                 if (xmlFolder != null) {
                     loadFiles(xmlFolder, textArea, imageLabel);
                 }
