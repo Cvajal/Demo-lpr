@@ -55,7 +55,7 @@ public class XMLReaderGUI {
         frame.add(imagePanel, BorderLayout.EAST);
         frame.setVisible(true);
 
-        JButton selectFolderButton = new JButton("selecciona directorio ");
+        JButton selectFolderButton = new JButton("Selecciona Directorio ");
 
         JTextField searchField = new JTextField(10); // Caja de texto para la búsqueda
 
