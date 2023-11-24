@@ -151,7 +151,7 @@ public class XMLReaderGUI {
                 textArea.setText("Entrada : " + captureTime + "\n" +
                         "Numero de placa : " + plateNumber + "\n" );
             } catch (Exception ex) {
-                textArea.setText("Error al cargar la imagen o el archivo XML: " + ex.getMessage());
+                textArea.setText("Error al cargar la imagen o el archivo XML, reintentar: " + ex.getMessage());
                 imageLabel.setIcon(null);
             }
         }
