@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CaptureInfo>
+	<DeviceProvider value="1"/>
+	<CaptureTime value="2023-11-23 09:39:23"/>
+	<VehicleColor value="0"/>
+	<PlateNumber value="CZR263"/>
+	<PlateColor value="0"/>
+	<PlateConfidence value="26"/>
+	<PlateNumberFirstCodeConfidence value="80" />
+	<PhotoFileName value="20231123093923.jpg"/>
+</CaptureInfo>
